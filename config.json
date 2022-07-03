@@ -4,6 +4,6 @@
 	"name": "rikifgrg",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (255651111)) (255651111(remember_no_spaces))",
+	"register-cmd":"/register 255651111 255651111",
 	"login-cmd":"/login (255651111)"
 }
