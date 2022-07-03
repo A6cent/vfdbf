@@ -1,0 +1,9 @@
+{
+	"ip":"worldtest.aternos.me",
+	"port": 43277,
+	"name": "rikifgrg",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (255651111)) (255651111(remember_no_spaces))",
+	"login-cmd":"/login (255651111)"
+}
